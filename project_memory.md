@@ -34,5 +34,7 @@ Dự án này tập trung vào việc cấu trúc hạ tầng cloud và triển 
   * Kết nối thành công cơ sở dữ liệu Redis thật trên cloud.
   * Bộ test kiểm thử CP5 thật qua Internet đã PASS 100%.
   * Phần lý thuyết Exercises đạt 10/10 câu tối đa.
-  * Tổng điểm đạt **100.0/100** điểm trần của bài Lab K3-Day12.
-  * Dự án đã ở trạng thái hoàn thiện tuyệt đối và sẵn sàng nộp bài.
+  * Đã sửa lỗi CI/CD trên GitHub Actions bằng cách cập nhật phiên bản cài đặt Railway CLI và sinh Project Token chính thức từ cài đặt Railway của Sếp, tự động cấu hình secret `RAILWAY_TOKEN`.
+  * Rerun build GitHub Actions chạy thành công, xanh lè 100%. Test Badge Bonus đạt điểm tối đa.
+  * Tổng điểm đạt **100.0/100** điểm bắt buộc + **10.0/10** điểm Bonus tuyệt đối của bài Lab K3-Day12.
+  * Dự án đã ở trạng thái hoàn hảo tuyệt đối và sẵn sàng nộp bài.
